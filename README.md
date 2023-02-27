@@ -1,4 +1,4 @@
 # Software-grafico
 
-<i>En construcción</i>
+<i>En construcción...</i>
 
